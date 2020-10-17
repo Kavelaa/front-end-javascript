@@ -24,6 +24,7 @@
     "@polkadot/ui-settings": "^0.60.1",
     "@polkadot/util": "^3.5.1",
     "@polkadot/util-crypto": "^3.5.1",
+    "lodash-es": "^4.17.15",
     "prop-types": "^15.7.2",
     "query-string": "^6.13.5",
     "react": "^16.14.0",
@@ -83,7 +84,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://substrate-developer-hub.github.io/substrate-front-end-template",
+  "homepage": "https://kavelaa.github.io/front-end-javascript",
   "bugs": {
     "url": "https://github.com/substrate-developer-hub/substrate-front-end-template/issues"
   },

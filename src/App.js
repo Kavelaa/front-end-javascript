@@ -15,6 +15,7 @@ import NodeInfo from './NodeInfo';
 import TemplateModule from './TemplateModule';
 import Transfer from './Transfer';
 import Upgrade from './Upgrade';
+import SearchPart from './SearchPart';
 
 function Main () {
   const [accountAddress, setAccountAddress] = useState(null);
@@ -60,6 +61,9 @@ function Main () {
             <Metadata />
             <BlockNumber />
             <BlockNumber finalized />
+          </Grid.Row>
+          <Grid.Row>
+            <SearchPart />
           </Grid.Row>
           <Grid.Row stretched>
             <Balances />

@@ -1,3 +1,6 @@
+> Deployed web page: https://kavelaa.github.io/front-end-javascript/
+> 
+> with **bonus** finish!
 # Substrate Front End Template
 
 This template allows you to create a front-end application that connects to a
